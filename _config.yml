@@ -1,0 +1,28 @@
+name: zinger
+favicon: null
+layout_spectrum: 0.9832530298735946
+typography_spectrum: 0.08364052884280682
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5077005578204989
+  lightness: 0.05054790060967207
+  saturation: 0.6061612232588232
+  rhythmicContrast: 0.2916393482591957
+purpose: []
