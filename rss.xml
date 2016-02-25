@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[zinger]]></title>
         <description><![CDATA[zinger]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zinger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 17:07:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 17:07:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zinger/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd7c6a2e-f66a-423d-bcf5-a85141206394.jpg">]]></description>
-            <link>undefined6851e3bf-ff4a-4b75-99d8-25324e37d6f2/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9517cb16-7a52-461b-b348-537f49226b50.jpg">]]></description>
+            <link>https://thegrid.ai/zinger/6851e3bf-ff4a-4b75-99d8-25324e37d6f2/index.html</link>
             <guid isPermaLink="false">6851e3bf-ff4a-4b75-99d8-25324e37d6f2</guid>
-            <pubDate>Thu, 25 Feb 2016 17:06:01 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2016 17:06:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
